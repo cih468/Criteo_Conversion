@@ -1,6 +1,6 @@
-# LINE 과제 결과 Report
+# Criteo Sponsored Search Conversion Log Dataset 을 이용한 CVR(Conversino) 예측
 
-
+data 출처 : http://ailab.criteo.com/criteo-sponsored-search-conversion-log-dataset/
 
 - model_trainer.py, server.py, preprocess.py, eda_process.py, EDA.ipynb 파일을 모두 같은 폴더에 넣고 시작.
 - 해당 폴더 하위에 'model' 이라는 이름으로 폴더 만들고 시작.
